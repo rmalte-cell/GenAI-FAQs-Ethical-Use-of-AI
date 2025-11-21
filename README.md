@@ -1,1 +1,1 @@
-# GenAI-FAQs-Ethical-Use-of-AI
+# GenAI FAQs & Ethical Use of AI
